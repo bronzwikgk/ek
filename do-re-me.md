@@ -1,2 +1,6 @@
 - This space is used by @bronzwikGk to publish any work for collaboration with an actor.
     - Each branch is a project.
+    - Each branch/folder has a inbox/input folder containing assorted raw data.
+    - RAW == llm chat output
+    - active, dot, wip  == work in progress
+    - stale == content, logic, copied will be deleted by collate agent.

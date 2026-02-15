@@ -1,0 +1,40 @@
+- self_evolve_self_aware_system: A node js utility that loads, learns, extract, validates, test, trains[ start, pause, resume,recurse], evaluate, benchmark, events, patterns, action, entity, rules, context,from a given data as per provided config. The system allows user to replicate a data pipeline of machine learning, and use it in determinitic and algorhyrimgic  approach of creating, training, testing, validating, evaluating, omptimising, k-brains that have a model, a bag of words, and a config..
+    - concepts:
+        - everything is an `entity`. entity can be defined by adding a prefix of `def@: entity name: shape.`
+        - an `actor`, performs an `action` on an `entity` in the system.
+        - in each system, `entity`, `action`,`actor` have their own config, with schema and other policy and templates.
+    - requirenment:
+        - dependency free.
+
+    - features:
+        - has `accuracy` and `efficiency` as two `benchmarks` 
+        - learns from 
+            - text
+            - numbers
+            - own mistakes.
+        - predict, next alphabet, next word, next candle
+        - finds events, patterns, break of patterns, diagnose patterns, collect features for lookback.
+        - generate startegy recusivly
+    - use cases:
+        - AutoTrader:
+        - AutoStrategy Builder:
+        - Predict Next: alphabet, word, sentance
+        - Ast Builder: text,md,json,js,csv,html,yml,.js
+        - Agents: With access to tools, and services
+        - contexual ui.
+        - Contexual Chatbot:
+    - techStack:
+    - spaces:
+        - bronzwik.github.com/dot
+    - Constraints:
+        - Class constructor, method based design pattern
+        - code should not know anything about any shape.
+        - no require, no foreach, no map, no arrow function.
+        -  
+    - success criteria:
+        - learns from text and numbers, detect event, diagnose event, learn from event, mistakes
+        - train,test, transform lifecyle.
+        - array to ast.
+    - inspiration:
+        - https://github.com/Sarvesh-Kulkarni/NL2SQL/tree/master
+        - https://github.com/salesforce/WikiSQL
